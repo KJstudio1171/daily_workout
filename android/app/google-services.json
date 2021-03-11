@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "203781871774",
+    "project_id": "daily-workout-20650",
+    "storage_bucket": "daily-workout-20650.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:203781871774:android:ff24d150a2f3196b52838f",
+        "android_client_info": {
+          "package_name": "com.kjstudio.daily_workout"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "203781871774-3gj85kp55tn7p0pcvm7s5a8jo6il8qka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoGCmoMTsK519P9iMbypaXhVp6G3Rmn90"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "203781871774-3gj85kp55tn7p0pcvm7s5a8jo6il8qka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
